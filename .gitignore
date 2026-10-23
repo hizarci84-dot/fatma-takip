@@ -1,0 +1,19 @@
+# Secrets and logs
+green_api_config.json
+*.log
+.last_sent_date.txt
+
+# Large PDF Files and Book Folders
+*.pdf
+MATEMATİK/
+PARAGRAF/
+ÇAP FİZİK-KİMYA-BİYOLOJİ/
+
+# Python cache
+__pycache__/
+*.pyc
+scratch/
+
+# OS files
+Thumbs.db
+.DS_Store
